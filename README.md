@@ -1,4 +1,4 @@
-## Velance (2021 제9회 K-해커톤 우수상 수상)
+## Velance (2021 제9회 K-해커톤 우수상 수상작)
 
 <img width="1330" alt="Screen Shot 2022-02-22 at 3 12 45 PM" src="https://user-images.githubusercontent.com/44637101/155088016-c8acad52-3037-4fc0-9250-b07dc6011b62.png">
 
