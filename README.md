@@ -78,7 +78,7 @@ https://drive.google.com/file/d/1zGXxwQrFiyRI9lP1l6gQgJoG9qIDl5ku/view
 ✅  **Custom UI**
 
 - 디자이너 분의 앱 디자인을 반영하는 데에 시간을 많이 쏟았습니다.
-    - 다양한 곳에 Shadow, Blur, Gradient, Custom Font 등을 적용하여 이를 공부하고 적용하는 데에 꽤 애르 먹었습니다.
+    - 다양한 곳에 Shadow, Blur, Gradient, Custom Font 등을 적용하여 이를 공부하고 적용하는 데에 꽤 애를 먹었습니다.
     
 
 ## 📌 배운 점
